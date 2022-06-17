@@ -1,0 +1,30 @@
+﻿  Main.cpp
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Usuario.h(62,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Gestor.h(212,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Gestor.h(212,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Gestor.h(218,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Gestor.h(220,12): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Gestor.h(229,26): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Gestor.h(313,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Gestor.h(319,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\HashLinearProbing.h(194,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\HashLinearProbing.h(193): message : while compiling class template member function 'void HashTabla<Usuario>::print(std::function<void (V)>)'
+          with
+          [
+              V=Usuario
+          ]
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Gestor.h(508): message : see reference to function template instantiation 'void HashTabla<Usuario>::print(std::function<void (V)>)' being compiled
+          with
+          [
+              V=Usuario
+          ]
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Gestor.h(26): message : see reference to class template instantiation 'HashTabla<Usuario>' being compiled
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\HashLinearProbing.h(60,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\HashLinearProbing.h(59): message : while compiling class template member function 'int HashTabla<Usuario>::primoCercano(int)'
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\HashLinearProbing.h(17): message : see reference to function template instantiation 'int HashTabla<Usuario>::primoCercano(int)' being compiled
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Vector.h(47,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Vector.h(44): message : while compiling class template member function 'void Vector<Cuenta>::autoincrement(void)'
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Vector.h(55): message : see reference to function template instantiation 'void Vector<Cuenta>::autoincrement(void)' being compiled
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Usuario.h(13): message : see reference to class template instantiation 'Vector<Cuenta>' being compiled
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\HashLinearProbing.h(43): warning C4715: 'HashTabla<Usuario>::retornarValor': not all control paths return a value
+  TF-Algoritmos.vcxproj -> C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\Debug\TF-Algoritmos.exe

@@ -1,0 +1,24 @@
+﻿  Main.cpp
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Contrasena.h(15,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Usuario.h(66,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Gestor.h(247,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Gestor.h(350,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Gestor.h(356,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\HashLinearProbing.h(105,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\HashLinearProbing.h(100): message : while compiling class template member function 'void HashTabla<Usuario>::insertar_pos(size_t,std::string,V)'
+          with
+          [
+              V=Usuario
+          ]
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Gestor.h(260): message : see reference to function template instantiation 'void HashTabla<Usuario>::insertar_pos(size_t,std::string,V)' being compiled
+          with
+          [
+              V=Usuario
+          ]
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\Gestor.h(27): message : see reference to class template instantiation 'HashTabla<Usuario>' being compiled
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\HashLinearProbing.h(61,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\HashLinearProbing.h(59): message : while compiling class template member function 'int HashTabla<Usuario>::primoCercano(int)'
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\HashLinearProbing.h(17): message : see reference to function template instantiation 'int HashTabla<Usuario>::primoCercano(int)' being compiled
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\HashLinearProbing.h(62,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\TF-Algoritmos\HashLinearProbing.h(43): warning C4715: 'HashTabla<Usuario>::retornarValor': not all control paths return a value
+  TF-Algoritmos.vcxproj -> C:\Users\Usuario\Desktop\ALGORITMOS\TF-Algoritmos\x64\Debug\TF-Algoritmos.exe
